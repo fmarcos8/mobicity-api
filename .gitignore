@@ -1,0 +1,14 @@
+# Vendor directory (if using Composer)
+/vendor
+.env
+
+# IDE/Editor specific files (e.g., PhpStorm)
+.idea/
+.DS_Store
+Thumbs.db
+
+# Composer lock file (commit this if you want consistent dependencies)
+# composer.lock
+
+# Log files
+*.log

@@ -1,0 +1,52 @@
+[2025-10-18T04:35:01.231041+00:00] api_logger.INFO: Array
+(
+    [0] => Array
+        (
+            [cl] => 1122
+            [lc] => 
+            [lt] => 5024
+            [sl] => 1
+            [tl] => 10
+            [tp] => STO. AMARO
+            [ts] => MISSIONÁRIA
+            [sid] => 51542
+        )
+
+    [1] => Array
+        (
+            [cl] => 33890
+            [lc] => 
+            [lt] => 5024
+            [sl] => 2
+            [tl] => 10
+            [tp] => STO. AMARO
+            [ts] => MISSIONÁRIA
+            [sid] => 63130
+        )
+
+    [2] => Array
+        (
+            [cl] => 1123
+            [lc] => 
+            [lt] => 5024
+            [sl] => 1
+            [tl] => 31
+            [tp] => STO. AMARO
+            [ts] => MISSIONÁRIA
+            [sid] => 51657
+        )
+
+    [3] => Array
+        (
+            [cl] => 33891
+            [lc] => 
+            [lt] => 5024
+            [sl] => 2
+            [tl] => 31
+            [tp] => STO. AMARO
+            [ts] => MISSIONÁRIA
+            [sid] => 63131
+        )
+
+)
+
